@@ -1,7 +1,7 @@
 {
-  "name": "pidrive-server",
+  "name": "pidrive-car",
   "version": "0.0.1",
-  "description": "Server for relying control messages to RaspberryPi controlled car.",
+  "description": "Car executor",
   "dependencies": {
     "socket.io-client": "^1.4.5",
     "pidrive-lib": "git://github.com/wreszelewski/PiDrive-lib.git"
